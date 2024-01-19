@@ -2,6 +2,8 @@
 
 ##Projeto desenvolvido de uma Calculadora
 
+Dentro da pasta calculadora pode ser encontrado Readme para executar o projeto.
+
 ### Tech
 HTML - CSS - JavaScript
 
